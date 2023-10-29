@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'easyjapan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBE298AA4F4A4215933A2092BCCD9047 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5AF394641A84A298DA6F6B878BF19E1 }}
           package: .
